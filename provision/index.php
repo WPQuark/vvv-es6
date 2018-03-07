@@ -26,7 +26,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 *** OPTIONS ***/
-
+@ini_set( 'display_errors', 0 );
+@error_reporting( 0 );
 	// TITLE OF PAGE
 	$title = "{{SITE_TITLE_HERE}}";
 
