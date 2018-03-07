@@ -34,7 +34,7 @@ SOFTWARE.
 	$color	= "dark";
 
 	// ADD SPECIFIC FILES YOU WANT TO IGNORE HERE
-	$ignore_file_list = array( ".git", ".htaccess", "Thumbs.db", ".DS_Store", "index.php", 'node_modules', 'bower_components', 'jspm_packages', '.npm', '.eslintcache', '.node_repl_history', '.yarn-integrity', '.grunt' );
+	$ignore_file_list = array( ".git", ".gitignore", ".htaccess", "Thumbs.db", ".DS_Store", "index.php", 'node_modules', 'bower_components', 'jspm_packages', '.npm', '.eslintcache', '.node_repl_history', '.yarn-integrity', '.grunt' );
 
 	// ADD SPECIFIC FILE EXTENSIONS YOU WANT TO IGNORE HERE, EXAMPLE: array('psd','jpg','jpeg')
 	$ignore_ext_list = array( );
