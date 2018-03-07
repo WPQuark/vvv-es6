@@ -35,6 +35,12 @@ The first domain in this list is your sites primary domain.
 
 ```
 custom:
+    site_title: My Awesome Dev Site
+```
+Defines the site title that is shown in the root directory.
+
+```
+custom:
     db_name: super_secet_db_name
 ```
 Defines the DB name for the installation.
