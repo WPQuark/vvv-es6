@@ -15,7 +15,7 @@ Instead of WordPress we install a simple PHP [directory lister](https://github.c
 
 ```yaml
 es6:
-  repo: https://github.com/Varying-Vagrant-Vagrants/custom-site-template
+  repo: https://github.com/WPQuark/vvv-es6
   hosts:
     - es6.test
 ```
